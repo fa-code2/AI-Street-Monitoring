@@ -9,8 +9,11 @@ AI-powered street monitoring tool that detects potholes in images and video usin
 - Reports total potholes found, per-severity counts, and average confidence
 - Displays a road health score and system FPS overlay
 ## Output
+### 1:
 ![Pothole Detection Output](assets/output-img1.png)
-![Output-image]('assets\output-img2.png')
+
+### 2:
+![Output-image](assets/output-img2.png)
 
 ## Requirements
 
