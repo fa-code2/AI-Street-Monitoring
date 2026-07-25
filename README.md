@@ -13,7 +13,7 @@ AI-powered street monitoring tool that detects potholes in images and video usin
 ![Pothole Detection Output](assets/output-img1.png)
 
 ### 2:
-![Output-image](assets/output-img2.png)
+![Output-image](assets/output-imge2.png)
 
 ## Requirements
 
